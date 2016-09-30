@@ -1,5 +1,5 @@
 # JIRA-overdue-marker
 Greasemonkey script for marking overdue JIRA issues on Filter result widget.
 
-1) Setup Filter result to display Due date and Status
+1) Setup Filter result to display Due date and Status <br />
 2) Add script to Greasemonkey in your firefox
